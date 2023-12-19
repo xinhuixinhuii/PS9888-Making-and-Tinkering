@@ -1,5 +1,5 @@
 # Automated Rubik Cube Painting - Flask App & Image Processing
-The project is under PS5888 Making and Tinkering.
+The project is under PS9888 Making and Tinkering.
 
 To view the Flask App, run: 
 > $env:FLASK_APP = "hello"
